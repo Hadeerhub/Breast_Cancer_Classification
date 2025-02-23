@@ -36,32 +36,32 @@
 EDA helps understand the dataset, detect patterns, and identify potential issues before training the model.
 
 #### 🔹 Step 2.1: 📁 Examine Dataset Structure  
-✔️ Display dataset shape, column names, data types, and check for missing values.
+  - Display dataset shape, column names, data types, and check for missing values.
 
 #### 🔹 Step 2.2: 🚫 Handle Missing Values  
-✔️ Verify if the dataset contains missing values and apply necessary handling techniques.
+  - Verify if the dataset contains missing values and apply necessary handling techniques.
 
 #### 🔹 Step 2.3: 📉 Analyze Target Distribution  
-✔️ Plot a countplot to visualize the distribution of **Malignant vs. Benign** cases.
+  - Plot a countplot to visualize the distribution of **Malignant vs. Benign** cases.
 
 ✅ **Expected Outcome:**  
-✔️ The dataset exhibits imbalance (with a higher proportion of benign cases).  
+  - The dataset exhibits imbalance (with a higher proportion of benign cases).  
 
 #### 🔹 Step 2.4: 🔗 Feature Correlation Analysis  
-✔️ Generate a **correlation heatmap** to identify highly correlated features.  
+  - Generate a **correlation heatmap** to identify highly correlated features.  
 
 ✅ **Expected Outcome:**  
-✔️ Features with strong correlation may be removed later to reduce redundancy.  
+  - Features with strong correlation may be removed later to reduce redundancy.  
 
 #### 🔹 Step 2.5: 📊 Visualize Key Features  
-✔️ **Histogram:** Analyze feature distributions.  
-✔️ **Pairplot:** Observe relationships between features.  
-✔️ **Boxplot:** Detect outliers that may impact model performance.  
+  - **Histogram:** Analyze feature distributions.  
+  - **Pairplot:** Observe relationships between features.  
+  - **Boxplot:** Detect outliers that may impact model performance.  
 
 ✅ **Expected Outcome:**  
-✔️ Histograms provide insights into feature distribution and skewness.  
-✔️ Pairplots illustrate relationships between different features.  
-✔️ Boxplots highlight potential outliers.  
+  - Histograms provide insights into feature distribution and skewness.  
+  - Pairplots illustrate relationships between different features.  
+  - Boxplots highlight potential outliers.  
 
 ---
 
@@ -80,11 +80,11 @@ EDA helps understand the dataset, detect patterns, and identify potential issues
 **📌 Description:**  
 Train multiple **supervised learning algorithms** for comparison, including:  
 
-✔️ **Logistic Regression**  
-✔️ **Support Vector Machine (SVM)**  
-✔️ **Random Forest Classifier**  
-✔️ **K-Nearest Neighbors (KNN)**  
-✔️ **Gradient Boosting Models** (e.g., XGBoost, LightGBM, etc.)  
+  - **Logistic Regression**  
+  - **Support Vector Machine (SVM)**  
+  - **Random Forest Classifier**  
+  - **K-Nearest Neighbors (KNN)**  
+  - **Gradient Boosting Models** (e.g., XGBoost, LightGBM, etc.)  
 
 ✅ **Expected Outcome:**  
 ✔️ Multiple trained models for breast cancer prediction.  
@@ -97,7 +97,7 @@ Train multiple **supervised learning algorithms** for comparison, including:
 - Present results using **classification reports and confusion matrices**.  
 
 ✅ **Expected Outcome:**  
-✔️ A detailed performance comparison of all trained models.  
+   ✔️ A detailed performance comparison of all trained models.  
 
 ---
 
@@ -107,7 +107,7 @@ Train multiple **supervised learning algorithms** for comparison, including:
 - Select the **best-performing model** based on accuracy and evaluation metrics.  
 
 ✅ **Expected Outcome:**  
-✔️ Identification of the **most effective model** for breast cancer prediction.  
+   ✔️ Identification of the **most effective model** for breast cancer prediction.  
 
 ---
 
@@ -117,7 +117,7 @@ Train multiple **supervised learning algorithms** for comparison, including:
 - Deploy the model via **Flask** or **Streamlit** for real-time predictions.  
 
 ✅ **Expected Outcome:**  
-✔️ A fully deployed **breast cancer prediction model** accessible for real-world applications.  
+   ✔️ A fully deployed **breast cancer prediction model** accessible for real-world applications.  
 
 ---
 
@@ -137,7 +137,7 @@ Train multiple **supervised learning algorithms** for comparison, including:
 4️⃣ Users can **download the results** for further evaluation.  
 
 ✅ **Expected Outcome:**  
-✔️ A CSV file containing **patient IDs and predictions** ready for clinical evaluation.  
+   ✔️ A CSV file containing **patient IDs and predictions** ready for clinical evaluation.  
 
 ---
 
