@@ -160,6 +160,9 @@ If you have any questions or suggestions, feel free to reach out:
 
 ---
 
+🚀 **This project delivers a comprehensive Machine Learning pipeline for Breast Cancer Prediction!**  
+
+---
 ## 📂 Project Structure  
 ```bash
 Breast_Cancer_Classification/
@@ -179,6 +182,3 @@ Breast_Cancer_Classification/
 │
 │── README.md                 # Project documentation
 │── requirements.txt          # Python dependencies
-
-
-🚀 **This project delivers a comprehensive Machine Learning pipeline for Breast Cancer Prediction!**  
