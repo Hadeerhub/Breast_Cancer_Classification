@@ -1,8 +1,5 @@
 # 🎗️ Breast_Cancer_Classification
-"This project predicts breast cancer diagnosis (Malignant/Benign) using machine learning models based on the Breast Cancer Wisconsin (Diagnostic) Dataset."
-# 🔬 Breast Cancer Prediction Using Machine Learning
-
-📌 This project conducts Exploratory Data Analysis (EDA) and develops various Machine Learning models to predict breast cancer using the **Breast Cancer Wisconsin (Diagnostic) Dataset**.
+"This project predicts breast cancer diagnosis (Malignant/Benign) using machine learning models based on the **Breast Cancer Wisconsin (Diagnostic) Dataset**.
 
 ---
 
