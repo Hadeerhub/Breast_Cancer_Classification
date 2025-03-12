@@ -14,7 +14,19 @@
 - **Step 8:** 🎗️ Breast Cancer Classification Web App using Gradio 
 
 ---
+## 🔬 Model Performance on Test Data
 
+The **SVM model** was evaluated on a test dataset containing **102 patient biopsy records**, achieving an **accuracy of 95.74% (0.9574)**.
+
+### 📊 Performance Breakdown:
+- **True Positives (TP):** Malignant cases correctly classified as malignant.  
+- **True Negatives (TN):** Benign cases correctly classified as benign.  
+- **False Positives (FP):** Benign cases incorrectly classified as malignant.  
+- **False Negatives (FN):** Malignant cases incorrectly classified as benign.  
+
+Out of **102 test cases**, the model misclassified **3 benign cases as malignant (False Positives - FP)** while correctly classifying **99 cases (TP + TN)**.
+
+---
 ## 📞 Contact  
 If you have any questions or suggestions, feel free to reach out:  
 
