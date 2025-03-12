@@ -1,6 +1,9 @@
 # 🎗️ Breast_Cancer_Classification 🎗️
 "This project predicts breast cancer diagnosis (Malignant/Benign) using machine learning models based on the **Breast Cancer Wisconsin (Diagnostic) Dataset**.
 
+![image 2](https://github.com/user-attachments/assets/54005075-2822-4404-9368-84366c9c2f92)
+
+
 ---
 
 ## 📑 Project Workflow
