@@ -29,7 +29,7 @@ Out of **102 test cases**, the model misclassified **3 benign cases as malignant
 ---
 ## 💻 AI-Powered Breast Cancer Diagnosis – Web App Demonstration
 
-## 🔹 Application Features  
+### 🔹 Application Features  
 
 The app offers two prediction options:  
 
@@ -37,7 +37,13 @@ The app offers two prediction options:
   Users can upload a CSV file containing multiple patient records with the required features. The app processes the data and returns a modified CSV file with an additional column indicating the diagnosis (**Malignant** or **Benign**) for each patient.  
 
 - **Individual Prediction** ✍️  
-  Users can manually input patient data, and the app instantly provides a diagnosis (**Malignant** or **Benign**).  
+  Users can manually input patient data, and the app instantly provides a diagnosis (**Malignant** or **Benign**).
+
+  
+
+https://github.com/user-attachments/assets/2d3736b9-7812-405a-9ddd-9ec840fde61d
+
+
 
 ---
 ## 📞 Contact  
