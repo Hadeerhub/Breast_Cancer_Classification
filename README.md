@@ -1,4 +1,4 @@
-# 🎗️ Breast_Cancer_Classification
+# 🎗️ Breast_Cancer_Classification 🎗️
 "This project predicts breast cancer diagnosis (Malignant/Benign) using machine learning models based on the **Breast Cancer Wisconsin (Diagnostic) Dataset**.
 
 ---
@@ -32,6 +32,7 @@ Out of **102 test cases**, the model misclassified **3 benign cases as malignant
  🔹 The app offers two options:
  
     - **Batch Prediction:** 📂 Users can upload a CSV file containing multiple patient records with the required features. The app processes the data and returns a modified CSV file with an additional column indicating the diagnosis (Malignant or Benign) for each patient.
+
     
     - **Individual Prediction:** ✍️ Users can manually input patient data, and the app instantly provides a diagnosis (Malignant or Benign).
 
